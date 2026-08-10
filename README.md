@@ -1,11 +1,11 @@
-# FastAPI Portfolio API
+# FastAPI API
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688.svg)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791.svg)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED.svg)](https://www.docker.com/)
 
-API RESTful production-ready para portfólio: **FastAPI**, **SQLAlchemy 2**, **Pydantic v2** e **PostgreSQL**, orquestrada com **Docker Compose**.
+API RESTful production-ready: **FastAPI**, **SQLAlchemy 2**, **Pydantic v2** e **PostgreSQL**, orquestrada com **Docker Compose**.
 
 ## Arquitetura
 
@@ -21,7 +21,7 @@ Camadas simples em `app/`:
 | `routers/items.py` | Endpoints REST |
 | `main.py` | App + startup |
 
-## Prerequisites
+## Pré-requisitos
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - Git
