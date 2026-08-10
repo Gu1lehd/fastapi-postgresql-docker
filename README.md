@@ -69,10 +69,6 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-## Desenvolvimento com agentes
-
-Este repo inclui base multiagente e prompts das tasks em [`docs/`](docs/00-overview.md).
-
 ## Parar e limpar volumes
 
 ```bash
